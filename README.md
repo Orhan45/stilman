@@ -1,6 +1,6 @@
 # Stilman
 
-![Stilman Logo](https://imgur.com/a/5Zoqcum)  
+![Stilman Logo](https://i.imgur.com/5Zoqcum.jpg)
 *Modern, Şık ve Kaliteli Erkek Giyim*
 
 ---
