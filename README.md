@@ -1,8 +1,5 @@
 # Stilman
 
-<p align="center">
-  <img src="https://imgur.com/a/5Zoqcum.jpg" width="200">
-</p>
 
 *Modern, Şık ve Kaliteli Erkek Giyim*
 
