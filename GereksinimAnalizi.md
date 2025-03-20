@@ -1,10 +1,12 @@
-Kayıt Olma: Kullanıcılar, ad, ,adres, e-posta ve şifre ile hesap oluşturmalıdır. 
-Giriş Yap: Kullanıcılar, e-posta ve şifre ile giriş yapabilmelidir. 
-Çıkış Yap: Kullanıcılar, hesaplarından güvenli şekilde çıkış yapabilmelidir.
-Sepete Ekle ,Çıkart ;Ürünler sepete ekleyebilir ve çıkartılabilmelidir. 
-Favoriye Ekle,Çıkart :Beğenilen ürünler favori listesine eklenebilir çıkarılabilir.
-Ürün Arama: Kullanıcılar, anahtar kelime veya ürün adı ile arama yapabilmelidir.
-Filtreleme: Ürünler fiyat, kategori ve puan gibi kriterlere göre filtrelenebilmelidir.
-Yorum Yapma: Kullanıcılar, satın aldıkları ürünlere yorum ve puan verebilmelidir.
-Profili ve Sipariş Yönetimi: Kullanıcılar, önceki siparişlerini, sipariş durumlarını görüntüleyebilmelidir.  
-Ödeme: Ödeme adımında farklı ödeme yöntemleri (kredi kartı, kapıda ödeme vb.) desteklenmelidir.
+# Stilman E-Ticaret Özellikleri
+
+- **Kayıt Olma:** Kullanıcılar, ad, adres, e-posta ve şifre ile hesap oluşturmalıdır.
+- **Giriş Yap:** Kullanıcılar, e-posta ve şifre ile giriş yapabilmelidir.
+- **Çıkış Yap:** Kullanıcılar, hesaplarından güvenli şekilde çıkış yapabilmelidir.
+- **Sepete Ekle, Çıkart:** Ürünler sepete eklenebilir ve çıkartılabilmelidir.
+- **Favoriye Ekle, Çıkart:** Beğenilen ürünler favori listesine eklenebilir ve çıkarılabilir.
+- **Ürün Arama:** Kullanıcılar, anahtar kelime veya ürün adı ile arama yapabilmelidir.
+- **Filtreleme:** Ürünler fiyat, kategori ve puan gibi kriterlere göre filtrelenebilmelidir.
+- **Yorum Yapma:** Kullanıcılar, satın aldıkları ürünlere yorum ve puan verebilmelidir.
+- **Profili ve Sipariş Yönetimi:** Kullanıcılar, önceki siparişlerini, sipariş durumlarını görüntüleyebilmelidir.
+- **Ödeme:** Ödeme adımında farklı ödeme yöntemleri (kredi kartı, kapıda ödeme vb.) desteklenmelidir.
