@@ -1,12 +1,40 @@
-#Stilman
-Proje tanımı: Bu proje, erkeklere yönelik modern, şık ve kaliteli giyim ürünlerini sunan bir e-ticaret platformu oluşturmayı hedeflemektedir. Site, kullanıcı dostu tasarımı, geniş ürün yelpazesi ve güvenli ödeme altyapısı ile erkeklerin ihtiyaç duyduğu her türlü giyim ve aksesuarı kolayca bulabileceği bir alışveriş deneyimi sunmayı amaçlamaktadır.
+# Stilman
 
+![Stilman Logo](https://via.placeholder.com/600x200?text=Stilman)  
+*Modern, Şık ve Kaliteli Erkek Giyim*
 
+---
 
+## Proje Tanımı
 
+**Stilman**, erkeklere yönelik modern, şık ve kaliteli giyim ürünlerini sunan bir e-ticaret platformudur.  
+Bu proje ile kullanıcı dostu tasarım, geniş ürün yelpazesi ve güvenli ödeme altyapısı sayesinde erkeklerin tüm giyim ve aksesuar ihtiyaçlarına kolayca ulaşabileceği bir alışveriş deneyimi sunmayı hedefliyoruz.
 
-Proje kategorisi : alışveriş site vs.
-Referans uygulama: avva.com.tr
-Uygulama adresi:  
-Ekip adı: Kasabalı
-Proje ekibi: Orhan selman YALÇIN
+---
+
+## Proje Kategorisi
+
+- **Alışveriş Sitesi**  
+  Modern e-ticaret trendleri ve kullanıcı deneyimi odaklı bir platform.
+
+---
+
+## Referans Uygulama
+
+- [avva.com.tr](https://avva.com.tr)
+
+---
+
+## Uygulama Adresi
+
+> Uygulama adresi henüz belirlenmemiştir.
+
+---
+
+## Ekip Bilgileri
+
+- **Ekip Adı:** Kasabalı
+- **Proje Ekibi:** Orhan Selman YALÇIN
+
+---
+
